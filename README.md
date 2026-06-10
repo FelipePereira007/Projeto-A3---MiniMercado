@@ -6,9 +6,15 @@ O trabalho busca demonstrar a aplicação prática dos conhecimentos adquiridos 
 Utilizando Java como principal ferramenta adotada durante o desenvolvimento do projeto acadêmico.
 
 O MiniMercado foi desenvolvido pela seguinte equipe:
+
 Felipe Pereira
+
 Pedro de Jesus
+
 Pedro Henrique Corsi
+
 Felipe Moreira Felix
+
 Guilherme dos Santos
+
 Miguel Lino
